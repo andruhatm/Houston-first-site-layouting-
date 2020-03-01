@@ -1,0 +1,28 @@
+body{
+  margin: auto;
+  text-align: justify;
+  width: 70%;
+  line-height: 1.5em;
+}
+figure{
+  margin-top: 0px;
+  float: right;
+  font-style: italic;
+}
+figcaption{
+  font-size: 9pt;
+}
+h1,h2,h3,h4,h5{
+  font-family: Arial,Helvetica,sans-serif;
+}
+h1{
+  line-height: 1.5em;
+  font-size: 32px;
+}
+table, th, td{
+  border: 1px solid black;
+  margin-bottom: auto;
+}
+caption{
+  text-align: center;
+}
